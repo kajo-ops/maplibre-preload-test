@@ -1,4 +1,3 @@
-import "./App.css";
 import "maplibre-gl/dist/maplibre-gl.css";
 import Map from "./components/Map/Map";
 
